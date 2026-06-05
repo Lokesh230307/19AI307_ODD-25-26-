@@ -23,7 +23,7 @@ To write a Java program to find the cube of a number using methods.
 /*
 Program to implement a Methods using Java
 Developed by: LOKESH S
-RegisterNumber: 212224230413
+RegisterNumber: 212224230143
 */
 ```
 
