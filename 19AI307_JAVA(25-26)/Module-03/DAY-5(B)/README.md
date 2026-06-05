@@ -29,7 +29,7 @@ To write a Java program that checks whether a given number is prime by using the
 /*
 Program to implement a InnerClass using Java
 Developed by: LOKESH S
-RegisterNumber: 212224230413
+RegisterNumber: 212224230143
 */
 ```
 
