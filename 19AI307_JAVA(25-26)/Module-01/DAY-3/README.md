@@ -21,7 +21,7 @@ To write a Java program to find the factorial of a given number.
 /*
 Program to implement a Looping Statement using Java
 Developed by: LOKESH S
-RegisterNumber: 212224230413
+RegisterNumber: 212224230143
 */
 ```
 
