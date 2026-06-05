@@ -20,7 +20,7 @@ To write a Java program to create and display details of two courses using objec
 /*
 Program to implement a Class and Objects using Java
 Developed by: LOKESH S
-RegisterNumber: 212224230413
+RegisterNumber: 212224230143
 */
 ```
 
